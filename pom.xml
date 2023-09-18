@@ -20,7 +20,7 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.0</version>
                 <configuration>
-                    <release>19</release> <!-- substitua pelo número da versão do Java que você precisa -->
+                    <release>17</release> <!-- substitua pelo número da versão do Java que você precisa -->
                 </configuration>
             </plugin>
         </plugins>
